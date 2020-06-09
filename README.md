@@ -35,4 +35,6 @@ Emma is grateful for the support she received while employed at Drupalize.Me (Lu
 
 ## Process Note
 
+Start Process Note.
 Read to use some process. Not decided.
+Let's Start.
